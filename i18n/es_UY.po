@@ -1,0 +1,143 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* product_repaired_images
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-29 17:50+0000\n"
+"PO-Revision-Date: 2023-12-29 17:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: product_repaired_images
+#: model_terms:ir.ui.view,arch_db:product_repaired_images.repair_order_image_view_kanban
+msgid "Acceptable file size"
+msgstr "Tamaño de archivo aceptable"
+
+#. module: product_repaired_images
+#: model_terms:ir.ui.view,arch_db:product_repaired_images.repair_view_repair_order_form_inherit_repair_order
+msgid "Add a Media"
+msgstr "Agregar Multimedia"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__display_name
+msgid "Display Name"
+msgstr "Nombre para Mostrar"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order__repair_template_image_ids
+#: model_terms:ir.ui.view,arch_db:product_repaired_images.repair_view_repair_order_form_inherit_repair_order
+msgid "Extra Repair Media"
+msgstr "Multimedia Adicional de Reparación"
+
+#. module: product_repaired_images
+#: model_terms:ir.ui.view,arch_db:product_repaired_images.repair_order_image_view_kanban
+msgid "Huge file size. The image should be optimized/reduced."
+msgstr "Tamaño de archivo enorme. La imagen debería ser optimizada/reducida."
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__id
+msgid "ID"
+msgstr "ID"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__image_1920
+msgid "Image"
+msgstr "Imagen"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__image_1024
+msgid "Image 1024"
+msgstr "Imagen 1024"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__image_128
+msgid "Image 128"
+msgstr "Imagen 128"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__image_256
+msgid "Image 256"
+msgstr "Imagen 256"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__image_512
+msgid "Image 512"
+msgstr "Imagen 512"
+
+#. module: product_repaired_images
+#: model_terms:ir.ui.view,arch_db:product_repaired_images.view_repair_order_image_form
+msgid "Image Name"
+msgstr "Nombre de la Imagen"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image____last_update
+msgid "Last Modified on"
+msgstr "Última Modificación en"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__write_uid
+msgid "Last Updated by"
+msgstr "Última Actualización por"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__write_date
+msgid "Last Updated on"
+msgstr "Última Actualización en"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__name
+msgid "Name"
+msgstr "Nombre"
+
+#. module: product_repaired_images
+#: model_terms:ir.ui.view,arch_db:product_repaired_images.repair_order_image_view_kanban
+msgid ""
+"Optimization required! Reduce the image size or increase your compression "
+"settings."
+msgstr ""
+"¡Optimización requerida! Reduzca el tamaño de la imagen o aumente la "
+"compresión."
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__repair_tmpl_id
+msgid "Repair"
+msgstr "Reparación"
+
+#. module: product_repaired_images
+#: model:ir.model,name:product_repaired_images.model_repair_order_image
+msgid "Repair Image"
+msgstr "Imagen de Reparación"
+
+#. module: product_repaired_images
+#: model_terms:ir.ui.view,arch_db:product_repaired_images.repair_order_image_view_kanban
+#: model_terms:ir.ui.view,arch_db:product_repaired_images.repair_view_repair_order_form_inherit_repair_order
+#: model_terms:ir.ui.view,arch_db:product_repaired_images.view_repair_order_image_form
+msgid "Repair Images"
+msgstr "Imágenes de Reparación"
+
+#. module: product_repaired_images
+#: model:ir.model,name:product_repaired_images.model_repair_order
+msgid "Repair Order"
+msgstr "Orden de Reparación"
+
+#. module: product_repaired_images
+#: model:ir.model.fields,field_description:product_repaired_images.field_repair_order_image__sequence
+msgid "Sequence"
+msgstr "Secuencia"
